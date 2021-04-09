@@ -1,0 +1,16 @@
+body {
+  background-color: #eee;
+}
+
+.data {
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+  font-size: 12px;
+  padding-top: 10px;
+}
+
+.endereco {
+padding: 7px 0 7px 0;
+  font-size: 12px;
+}
